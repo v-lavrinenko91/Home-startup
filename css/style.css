@@ -298,3 +298,54 @@ header::before {
 .labels {
 	background-color: #f8f8f8;
 }
+
+.label-row {
+	margin-bottom: 70px;
+}
+
+.labels blockquote {
+	border: none;
+}
+
+.labels q {
+	display: block;
+	margin-bottom: 40px;
+	font-size: 18px;
+	line-height: 30px;
+	text-align: center;
+}
+
+.labels cite {
+	display: block;
+	font-size: 20px;
+	font-style: normal;
+	line-height: 30px;
+	text-align: center;
+}
+
+.sliders {
+	width: 60px;
+	margin: 35px auto 0;	
+	font-size: 0;
+}
+
+.sliders .slider {
+	display: inline-block;
+	width: 14px;
+	height: 14px;
+	margin-left: 7px;
+	border-radius: 50%;
+	background-color: #dddddd;
+}
+
+.sliders .slider-1 {
+	margin-left: 0;
+	background-color: #c0301c;
+}
+
+footer {
+	padding: 95px;
+	color: #fff;
+	background-color: #c0301c;
+}
+
